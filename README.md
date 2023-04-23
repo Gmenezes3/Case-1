@@ -23,19 +23,17 @@ Nesse produto devemos implementar a parte de *Front-End* (parte visual), e a *Ba
 
 1. Ao Abrir o Editor, abra o terminal do editor de código.  
  
-2. Digite o comando  ```cd ./Backend``` no terminal para que possa entrar na pasta especificada.
+2. Digite o comando  ```cd Backend``` no terminal para que possa entrar na pasta especificada.
 
-3.  Digite o comando ```cd ./Backend/Meu-App``` no terminal para que possa entrar na pagina especificada.
+3. Digite no terminal novamente o comando ```npm i``` para que possa baixar as dependências.  
 
-4. Digite no terminal novamente o comando ```npm i``` para que possa baixar as dependências.  
-
-5. Após isso, insira o comando ```npm run dev``` para que o lado do servidor possa começar a rodar.  
+4. Após isso, insira o comando ```npm run dev``` para que o lado do servidor possa começar a rodar.  
 
 ### Front-End:
 
 1. Abra um segundo terminal no editor de código
 
-2. digite o comando ```cd ./Frontend``` no terminal para que possa entrar na passa especificada.
+2. digite o comando ```cd Frontend``` no terminal para que possa entrar na passa especificada.
 
 3. Digite no terminal novamente, o comando ```npm i``` para que possa baixar as dependencias.
 
