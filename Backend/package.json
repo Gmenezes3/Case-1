@@ -1,20 +1,21 @@
 {
-    "name": "backend",
-    "version": "1.0.0",
-    "description": "Projeto Individual - Case 1 - Módulo Final",
-    "main": "index.js",
-    "type": "module",
-    "scripts": {
-        "start": "node ./src/server.js",
-        "dev": "nodemon ./src/server.js",
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "keywords": [],
-    "author": "Menezes",
-    "license": "ISC",
-    "dependencies": {
-        "cors": "^2.8.5",
-        "express": "^4.18.2",
-        "sqlite3": "^5.1.6"
-    }
+  "name": "Projeto_Final",
+  "version": "1.0.0",
+  "description": "1. `npm init -y` para inicar o npm 2. `npm install cors express sqlite3` 3. `npm install --save-dev nodemon` Para instalar como dependência de desenvolvimento 4. Adicionar no package.json o seguinte script:",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon ./src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
